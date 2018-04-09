@@ -1,0 +1,7 @@
+.box {
+  background-image: url("https://techacademy.s3.amazonaws.com/bootcamp/webdesign/mobile-design/img_work_site.png");
+  height: 400px;
+  width: 100%;
+  background-size: cover;
+  background-position: center center;
+}
